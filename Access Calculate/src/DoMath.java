@@ -5,7 +5,7 @@
 public class DoMath {
 
 	public static void main(String[] args) {
-		System.out.println(Calculate.square(7));
+		System.out.println(Calculate.square(-7));
 
 	}
 
