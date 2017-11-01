@@ -1,3 +1,5 @@
+package SplitString.src;
+
 /*Nicole Low
  * October 26, 2017
  */
